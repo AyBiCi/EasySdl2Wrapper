@@ -1,3 +1,0 @@
-/home/user/rotator/build/CMakeFiles/Renderer.dir
-/home/user/rotator/build/CMakeFiles/edit_cache.dir
-/home/user/rotator/build/CMakeFiles/rebuild_cache.dir
